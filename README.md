@@ -51,7 +51,7 @@ This document explains how to convert the WiFi Security Testing Tool into an And
 
 ```bash
 # Clone the project
-git clone <your-repository>
+git clone https://github.com/Shakir2456/Wifi-test-tool
 cd wifi-security-tool
 
 # Run automated installer
@@ -350,4 +350,4 @@ This tool is provided for educational and authorized security testing purposes o
 
 **Developer:** SHAKIR HOSSAIN  
 **Website:** https://shakir.com.bd  
-**Project Repository:** [Your Repository URL]
+**Project Repository:** [https://github.com/Shakir2456/Wifi-test-tool/tree/main]
